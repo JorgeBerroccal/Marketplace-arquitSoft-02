@@ -1,0 +1,1 @@
+![Diagrama arquitectónico](img/diagrama-arquitectonico.png)
