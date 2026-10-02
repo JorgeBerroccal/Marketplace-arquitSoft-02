@@ -1,6 +1,6 @@
 # Marketplace de productos para mascotas 
 ## nombre 
-Integrante 1 
+Berrocal Yucra Jorge Luis 
 ## Descripción 
 Marketplace académico de productos para mascotas. 
 ## Caso de estudio 
